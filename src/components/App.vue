@@ -37,8 +37,8 @@ export default defineComponent({
   },
   async created() {
     this.app = this.getApp(this.id);
-    this.qrCode = await QRCode.toDataURL("nodata", {
-      errorCorrectionLevel: "H",
+    this.qrCode = await QRCode.toDataURL(`https://appstore.jonasclaes.be/app/${this.app.id}`, {
+      errorCorrectionLevel: "medium",
       margin: 2
     });
 
