@@ -1,0 +1,20 @@
+[
+  {
+    "id": "be.jonasclaes.trainplannr",
+    "name": "Trainplannr",
+    "author": "Jonas Claes",
+    "category": "Travel & Local",
+    "icon": "icon.png",
+    "file": "app-debug.apk",
+    "images": [
+      "Trainplannr_1.png",
+      "Trainplannr_2.png",
+      "Trainplannr_3.png",
+      "Trainplannr_4.png",
+      "Trainplannr_5.png",
+      "Trainplannr_6.png",
+      "Trainplannr_7.png",
+      "Trainplannr_8.png"
+    ]
+  }
+]
