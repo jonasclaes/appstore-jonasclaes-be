@@ -4,6 +4,7 @@
     "name": "Trainplannr",
     "author": "Jonas Claes",
     "category": "Travel & Local",
+    "description": "Trainplannr is a route planner for destinations in Belgium. It will also show the physical train carriages that make up the train. Train timetables and planning will be obtained through an external API, provided by the NMBS and iRail. Train compositions are retrieved from NMBS and iRail API.",
     "icon": "icon.png",
     "file": "app-debug.apk",
     "images": [
