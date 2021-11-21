@@ -3,7 +3,7 @@
 </script>
 
 <template>
-  <div class="bg-gray-200 h-screen w-screen">
+  <div class="bg-gray-200 min-h-screen w-full">
     <div class="bg-gray-800 shadow-lg">
       <div class="max-w-6xl mx-auto px-4">
         <div class="flex justify-between">
